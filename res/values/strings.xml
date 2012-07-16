@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">testHttpClients</string>
+    <string name="apachehttpclient">ApacheHttpClient</string>
+    <string name="googlehttpclient">GoogleHttpClient</string>
+    <string name="apachestatus">apache status</string>
+    <string name="googlestatus">google status</string>
+    <string name="status">progress %1$s,  elapse %2$d</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>
